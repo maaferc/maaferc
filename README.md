@@ -1,16 +1,16 @@
-## Hi there 👋
+## Seja bem vindo ao meu perfil🖤
 
-<!--
-**maaferc/maaferc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Maria Fernanda 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo em linguagem JavaScript
+- Ultilizo este espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### meios de contato comigo📧
+
+maria.crodruigues2008@gmail.com
+
+@maaferc
+
+![](https://media.tenor.com/TM0Xkja0docAAAAi/cr7-si.gif)
+ 
